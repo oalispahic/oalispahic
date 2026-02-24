@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Studying CS at Elektrotehnički fakultet Sarajevo<br><br>I enjoy system programming <br><br>
 
 
