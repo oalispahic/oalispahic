@@ -1,5 +1,5 @@
 # About Me:
-Studying CS at Elektrotehnički fakultet Sarajevo<br><br>I like system programming <br><br>
+Studying CS at Elektrotehnički fakultet Sarajevo<br><br>I like systems programming <br><br>
 
 
 ## 🌐 Socials:
