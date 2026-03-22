@@ -2,7 +2,7 @@
 
 Computer science student at Elektrotehnički fakultet Sarajevo with a focus on systems programming and low-level development.
 
-Interested in understanding how systems work under the hood — from memory and processes.
+Interested in understanding how systems work under the hood — from memory and processes to hardware interfaces.
 
 Currently working on:
 - C++ systems programming
@@ -18,7 +18,7 @@ Currently working on:
 - C
 - Rust (basic)
 - Assembly (basic)
-- A bit of everything else
+
 
 **Systems / Low-level**
 - Linux
