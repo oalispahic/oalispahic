@@ -18,7 +18,7 @@ Currently working on:
 - C
 - Rust (basic)
 - Assembly (basic)
-- A bit of everything else (python, js)
+- A bit of everything else
 
 **Systems / Low-level**
 - Linux
