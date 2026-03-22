@@ -11,40 +11,6 @@ Currently working on:
 - Embedded systems (ESP32, microcontrollers)
 
 
-## Projects
-
-### Marex (Programming Language)
-A small programming language implemented in C++.
-
-Includes:
-- Lexer and tokenization
-- Parser
-- Interpreter
-
-Focus was on understanding how programming languages are built and executed internally.
-
----
-
-### ToyShell
-Minimal shell implementation in C++.
-
-Implements basic command execution and process handling to explore how UNIX-like shells operate.
-
----
-
-### MicroEngine
-Simple terminal-based game engine written in C++.
-
-Focus on structure, rendering in terminal, and engine-like architecture.
-
----
-
-### LinuxContainers
-Docker-based setup for creating isolated Linux environments.
-
-Used for testing and experimenting with system-level behavior.
-
-
 ## Tech Stack
 
 **Languages**
@@ -52,6 +18,7 @@ Used for testing and experimenting with system-level behavior.
 - C
 - Rust (basic)
 - Assembly (basic)
+- A bit of everything else (python, js)
 
 **Systems / Low-level**
 - Linux
@@ -62,7 +29,6 @@ Used for testing and experimenting with system-level behavior.
 **Embedded**
 - ESP32
 - Arduino
-
 
 ## Contact
 
